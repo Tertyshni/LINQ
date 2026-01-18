@@ -15,7 +15,7 @@ namespace ConsoleApp2
     {
         static void Main()
         {
-            List<Phone> phones = new List<Phone>;
+            List<Phone> phones = new List<Phone>
             {
                 new Phone
                 {
